@@ -39,7 +39,10 @@ pip install -r requirments.txt
   }
 }
 ```
-
+`step3`: 你也可以通过mcp来启动你的服务
+```python
+mcp run yourserver.py
+```
 ## 📞 联系方式
 
 电子邮箱：yirongzzz@163.com
