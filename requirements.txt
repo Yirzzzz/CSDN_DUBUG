@@ -1,0 +1,8 @@
+beautifulsoup4==4.13.5
+ddgs==9.5.5
+httpx==0.28.1
+mcp==1.13.1
+networkx==3.4.2
+numpy==1.26.4
+rapidfuzz==3.14.0
+scikit-learn==1.7.1

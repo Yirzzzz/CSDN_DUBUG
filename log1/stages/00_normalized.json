@@ -1,0 +1,4898 @@
+[
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: an illegal memory access was encountered（越界/未初始化内存） [kernel=grid_sample]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cuda:1!",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered（索引超界/标签越界） [op=IndexSelect]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 16 but got size 8 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,32,3,3], expected input[2,64,112,112] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,64,224,224] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[2,16,112,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,64,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Missing key(s) in state_dict: ['encoder.block.0.attn.q_proj.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.BFloat16Tensor) and weight type (torch.DoubleTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: an illegal memory access was encountered（越界/未初始化内存） [kernel=matmul]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[2,64,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: an illegal memory access was encountered（越界/未初始化内存） [kernel=layer_norm]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,32,3,3], expected input[2,32,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered（索引超界/标签越界） [op=Scatter]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.BFloat16Tensor) and weight type (torch.FloatTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,32,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,32,224,224] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered（索引超界/标签越界） [op=CrossEntropyLoss]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[1,64,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Float",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,64,3,3], expected input[1,64,112,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Double",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: an illegal memory access was encountered（越界/未初始化内存） [kernel=conv2d]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[2,16,224,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:1!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: an illegal memory access was encountered（越界/未初始化内存） [kernel=roi_align]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[1,64,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.FloatTensor) and weight type (torch.HalfTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[2,16,224,112] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:1!",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered（索引超界/标签越界） [op=Embedding]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[2,16,224,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found Float",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.HalfTensor) and weight type (torch.HalfTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Missing key(s) in state_dict: ['encoder.block.0.attn.q_proj.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 16 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Half",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.FloatTensor) and weight type (torch.DoubleTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.HalfTensor) and weight type (torch.FloatTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,32,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found Double",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,64,224,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,32,3,3], expected input[1,16,112,224] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 16 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,16,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,32,3,3], expected input[2,16,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.HalfTensor) and weight type (torch.DoubleTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Float",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: size mismatch for layer.weight",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type BFloat16 but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Missing key(s) in state_dict: ['encoder.block.0.attn.q_proj.weight'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,32,3,3], expected input[2,32,224,112] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "ValueError: expected sequence of length N at dim 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[2,16,224,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Double",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict: Unexpected key(s) in state_dict",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,64,112,112] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,64,3,3], expected input[2,64,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found Half",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 16 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,16,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type BFloat16 but found Double",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 8 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.BFloat16Tensor) and weight type (torch.HalfTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[1,16,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[1,16,112,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,16,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[1,32,112,224] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 8 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,32,3,3], expected input[1,16,112,224] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[1,64,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,112,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[1,64,224,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type BFloat16 but found Half",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[2,64,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,32,3,3], expected input[1,16,112,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[2,16,112,112] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Tensor must have a device set",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 16 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,112,224] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "IndentationError: expected an indented block",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: invalid syntax",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: invalid character '…'",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: Non-UTF-8 code starting with \\x..",
+    "answers": []
+  },
+  {
+    "question": "TabError: inconsistent use of tabs and spaces",
+    "answers": []
+  },
+  {
+    "question": "IndentationError: unexpected indent",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: EOL while scanning string literal",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Address already in use",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error in: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: ProcessGroupNCCL destroyed during collective",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 2 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 3 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "ValueError: world_size/rank 配置不正确",
+    "answers": []
+  },
+  {
+    "question": "TimeoutError: NCCL operation timed out",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 3 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 5 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Gloo backend not supported on this build",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 5 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 2 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 0 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 0 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_NOT_INITIALIZED when calling cublasSgemm",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_EXECUTION_FAILED",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: no kernel image is available for execution on the device",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_INVALID_VALUE when calling cublasSgemm",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_ALLOC_FAILED when calling cublasSgemm",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasCreate_v2",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: CUDA_ERROR_UNKNOWN",
+    "answers": []
+  },
+  {
+    "question": "ImportError: DLL load failed while importing torch",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_ALLOC_FAILED when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_ALLOC_FAILED",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasSgemm",
+    "answers": []
+  },
+  {
+    "question": "OMP: Error #15 initializing libiomp5md",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: CUDA_ERROR_ILLEGAL_ADDRESS",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_NOT_INITIALIZED when calling cublasCreate_v2",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: CUDA_ERROR_OUT_OF_MEMORY",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUBLAS_STATUS_ALLOC_FAILED",
+    "answers": []
+  },
+  {
+    "question": "torch.cuda.is_available() 为 False",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA error: invalid device ordinal",
+    "answers": []
+  },
+  {
+    "question": "OSError: libtorch_cuda.so: cannot open shared object file",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_ALLOC_FAILED when calling cublasCreate_v2",
+    "answers": []
+  },
+  {
+    "question": "torch 与 torchvision 版本不匹配导致 ImportError",
+    "answers": []
+  },
+  {
+    "question": "CUDA 初始化失败：CUDA driver version is insufficient for CUDA runtime version",
+    "answers": []
+  },
+  {
+    "question": "UserWarning: TypedStorage is deprecated",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_INVALID_VALUE when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 8: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 6: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 48: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 37: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 8: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "ValueError: GradScaler enabled but gradients are None",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 40: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 46: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 12: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 4: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 41: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 11: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 5: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 20: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 10: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 39: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 20: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 41: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 18: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 18: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 45: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 21: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 8: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 49: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 50: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 29: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 31: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 7: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 7: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 29: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 13: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "TypeError: Object of type 'datetime' is not JSON serializable",
+    "answers": []
+  },
+  {
+    "question": "json.decoder.JSONDecodeError",
+    "answers": []
+  },
+  {
+    "question": "ERROR: legacy-install-failure",
+    "answers": []
+  },
+  {
+    "question": "pip ERROR: No matching distribution found",
+    "answers": []
+  },
+  {
+    "question": "error: Microsoft Visual C++ 14.0 or greater is required",
+    "answers": []
+  },
+  {
+    "question": "ImportError: cannot import name 'xxx' from 'yyy'",
+    "answers": []
+  },
+  {
+    "question": "ModuleNotFoundError: No module named 'xxx'",
+    "answers": []
+  },
+  {
+    "question": "pip 依赖冲突 ResolutionImpossible",
+    "answers": []
+  },
+  {
+    "question": "pip SSL: CERTIFICATE_VERIFY_FAILED",
+    "answers": []
+  },
+  {
+    "question": "pip ERROR: Could not build wheels for xxx",
+    "answers": []
+  },
+  {
+    "question": "PermissionError 安装到全局 site-packages 失败",
+    "answers": []
+  },
+  {
+    "question": "ERROR: externally-managed-environment",
+    "answers": []
+  },
+  {
+    "question": "pip ERROR: Could not find a version that satisfies the requirement xxx",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: 'DataFrame' object has no attribute 'append'",
+    "answers": []
+  },
+  {
+    "question": "ValueError: could not convert string to float",
+    "answers": []
+  },
+  {
+    "question": "pandas SettingWithCopyWarning",
+    "answers": []
+  },
+  {
+    "question": "TypeError: float object cannot be interpreted as an integer",
+    "answers": []
+  },
+  {
+    "question": "ImportError: numpy.core._multiarray_umath failed to import",
+    "answers": []
+  },
+  {
+    "question": "pandas ValueError: Length mismatch",
+    "answers": []
+  },
+  {
+    "question": "读取超大 CSV 导致 MemoryError",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Attempted to trace LambdaLayer but it is not callable or scripted",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Attempted to trace CustomBlock but it is not callable or scripted",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Attempted to trace Mish but it is not callable or scripted",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=13 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=12 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=10 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=13 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Attempted to trace ActivationWrapper but it is not callable or scripted",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=12 not supported for operator index_put",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Attempted to trace Swish but it is not callable or scripted",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=10 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator index_put",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Python builtin <class 'list'> is not supported in TorchScript",
+    "answers": []
+  },
+  {
+    "question": "ValueError: Unsupported dynamic axes configuration",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: Couldn't export operator aten::xxx",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Tracer encountered a torch.nn.Module that is not supported",
+    "answers": []
+  },
+  {
+    "question": "TypeError: Can't convert Python object to a TorchScript value",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator index_put",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=12 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=13 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "TypeError in collate_fn: expected Tensor but got str",
+    "answers": []
+  },
+  {
+    "question": "StopIteration: DataLoader 迭代提前结束",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: worker init_fn failed with FileNotFoundError",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: worker init_fn failed with KeyError in dataset",
+    "answers": []
+  },
+  {
+    "question": "OSError: [Errno 24] Too many open files",
+    "answers": []
+  },
+  {
+    "question": "TypeError in collate_fn: expected Tensor but got list",
+    "answers": []
+  },
+  {
+    "question": "TypeError in collate_fn: expected Tensor but got NoneType",
+    "answers": []
+  },
+  {
+    "question": "TypeError in collate_fn: expected Tensor but got dict",
+    "answers": []
+  },
+  {
+    "question": "TypeError in collate_fn: expected Tensor but got tuple",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: worker init_fn failed with PermissionError",
+    "answers": []
+  },
+  {
+    "question": "ValueError: num_workers > 0 on Windows 需使用 if __name__ == '__main__' 保护",
+    "answers": []
+  },
+  {
+    "question": "TypeError: default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists",
+    "answers": []
+  },
+  {
+    "question": "BrokenPipeError: [Errno 32] Broken pipe",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: worker init_fn failed with CUDA initialization error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: worker init_fn failed with IndexError in sampler",
+    "answers": []
+  },
+  {
+    "question": "Can't pickle local object",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: DataLoader worker (pid(s) ...) exited unexpectedly",
+    "answers": []
+  },
+  {
+    "question": "Flask RuntimeError: Working outside of application context",
+    "answers": []
+  },
+  {
+    "question": "Django ImproperlyConfigured: SECRET_KEY 必须设置",
+    "answers": []
+  },
+  {
+    "question": "Django OperationalError: no such table",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: 'NoneType' object has no attribute 'x'",
+    "answers": []
+  },
+  {
+    "question": "IndexError: list index out of range",
+    "answers": []
+  },
+  {
+    "question": "TypeError: can only concatenate str (not 'int') to str",
+    "answers": []
+  },
+  {
+    "question": "ValueError: invalid literal for int() with base 10: 'abc'",
+    "answers": []
+  },
+  {
+    "question": "RecursionError: maximum recursion depth exceeded",
+    "answers": []
+  },
+  {
+    "question": "ValueError: too many values to unpack",
+    "answers": []
+  },
+  {
+    "question": "KeyError: 'key'",
+    "answers": []
+  },
+  {
+    "question": "NameError: name 'x' is not defined",
+    "answers": []
+  },
+  {
+    "question": "ZeroDivisionError: division by zero",
+    "answers": []
+  },
+  {
+    "question": "UnboundLocalError: local variable 'x' referenced before assignment",
+    "answers": []
+  },
+  {
+    "question": "AssertionError",
+    "answers": []
+  },
+  {
+    "question": "TypeError: 'NoneType' object is not subscriptable",
+    "answers": []
+  },
+  {
+    "question": "TypeError: 'int' object is not iterable",
+    "answers": []
+  },
+  {
+    "question": "OSError: [Errno 22] Invalid argument: 'CON'",
+    "answers": []
+  },
+  {
+    "question": "OSError: [WinError 32] 文件被另一个进程占用",
+    "answers": []
+  },
+  {
+    "question": "FileNotFoundError: [Errno 2] No such file or directory: 'file.txt'",
+    "answers": []
+  },
+  {
+    "question": "路径字符串反斜杠转义导致错误",
+    "answers": []
+  },
+  {
+    "question": "PermissionError: [Errno 13] Permission denied: 'path'",
+    "answers": []
+  },
+  {
+    "question": "requests.exceptions.ProxyError",
+    "answers": []
+  },
+  {
+    "question": "requests.exceptions.SSLError",
+    "answers": []
+  },
+  {
+    "question": "OpenSSL/cryptography 版本不匹配导致 AttributeError: module 'lib' has no attribute 'X509_V_FLAG_NEVER_CHECK_SUBJECT'",
+    "answers": []
+  },
+  {
+    "question": "pip 安装后仍然 import 报 ModuleNotFoundError",
+    "answers": []
+  },
+  {
+    "question": "'pip' 不是内部或外部命令",
+    "answers": []
+  },
+  {
+    "question": "将脚本命名为 random.py 导致 import random 异常",
+    "answers": []
+  },
+  {
+    "question": "ERROR: Command errored out with exit status 1: python setup.py egg_info",
+    "answers": []
+  },
+  {
+    "question": "Failed building wheel for lxml",
+    "answers": []
+  },
+  {
+    "question": "XLA compilation failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory",
+    "answers": []
+  },
+  {
+    "question": "TensorFlow: No matching distribution found on Python 3.12",
+    "answers": []
+  },
+  {
+    "question": "CUDNN_STATUS_EXECUTION_FAILED",
+    "answers": []
+  },
+  {
+    "question": "onnxruntime: Failed to load shared library",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Event loop is closed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeWarning: coroutine '...' was never awaited",
+    "answers": []
+  },
+  {
+    "question": "Can't pickle local object 'func'",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: 'coroutine' object has no attribute 'x'",
+    "answers": []
+  },
+  {
+    "question": "mysqlclient: 'mysql_config not found'",
+    "answers": []
+  },
+  {
+    "question": "psycopg2 安装失败",
+    "answers": []
+  },
+  {
+    "question": "sqlite3.OperationalError: database is locked",
+    "answers": []
+  },
+  {
+    "question": "UnicodeEncodeError: 'cp936' codec can't encode character",
+    "answers": []
+  },
+  {
+    "question": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x..",
+    "answers": []
+  },
+  {
+    "question": "EOFError: EOF when reading a line",
+    "answers": []
+  },
+  {
+    "question": "ImportError: cannot import name 'urlparse' from 'urllib'",
+    "answers": []
+  },
+  {
+    "question": "TypeError: TypedDict takes no arguments",
+    "answers": []
+  },
+  {
+    "question": "海象运算符 := 在 Python<3.8 上 SyntaxError",
+    "answers": []
+  },
+  {
+    "question": "ImportError: cannot import name 'MutableMapping' from 'collections'",
+    "answers": []
+  },
+  {
+    "question": "dataclasses 在 Python3.6 需 backport",
+    "answers": []
+  },
+  {
+    "question": "语法新特性报错：f-string 在低版本上 SyntaxError",
+    "answers": []
+  },
+  {
+    "question": "matplotlib RuntimeError: Invalid DISPLAY variable",
+    "answers": []
+  },
+  {
+    "question": "OpenCV ImportError: DLL load failed",
+    "answers": []
+  },
+  {
+    "question": "Pillow OSError: cannot identify image file",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_ALLOC_FAILED during batch_norm",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in YOLO: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid usage in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in BERT: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid device pointer in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: system call (socket) failed in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ViT: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found Bool",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_NOT_INITIALIZED when calling cublasCreate_v2",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in broadcast",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: internal error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cpu and cuda:0",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid usage in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid usage in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in LSTMNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: internal error in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during conv2d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in BERT: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Long",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered in Gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in ViT: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during grid_sample",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in Transformer: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in ViT: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered in IndexSelect",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Int but found Double",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: internal error in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: unhandled system error in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in LSTMNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in ResNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in BERT: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "CUDA error: device-side assert triggered in CrossEntropyLoss",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: system call (socket) failed in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Double but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: unhandled system error in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 96 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_NOT_INITIALIZED when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Double but found Bool",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during grid_sample",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasCreate_v2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Int but found Long",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: invalid device pointer in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in LSTMNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: internal error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_INVALID_VALUE when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in Transformer: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: system call (socket) failed in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ViT: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_NOT_SUPPORTED during conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: internal error in broadcast",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in UNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type BFloat16 but found Float",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: internal error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cuda:2 and cuda:1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Bool but found BFloat16",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in Transformer: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: system call (socket) failed in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid usage in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_EXECUTION_FAILED during attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid device pointer in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_ALLOC_FAILED during sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_ALLOC_FAILED during einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in UNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in UNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_EXECUTION_FAILED when calling cublasGemmStridedBatchedEx",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during attention",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_EXECUTION_FAILED during avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: system call (socket) failed in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cpu and cuda:2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in UNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: system call (socket) failed in broadcast",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in BERT: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Long",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in LSTMNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Half",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_ALLOC_FAILED during gelu",
+    "answers": []
+  },
+  {
+    "question": "cublas runtime error: CUBLAS_STATUS_INVALID_VALUE when calling cublasLtMatmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_EXECUTION_FAILED during roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 256 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ResNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Long but found BFloat16",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_EXECUTION_FAILED during conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cpu and cuda:1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: internal error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: mat1 and mat2 shapes cannot be multiplied",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed in all_gather",
+    "answers": []
+  },
+  {
+    "question": "ModuleNotFoundError: No module named 'cv2'",
+    "answers": []
+  },
+  {
+    "question": "ImportError: DLL load failed while importing cv2: The specified module could not be found.",
+    "answers": []
+  },
+  {
+    "question": "ImportError: libGL.so.1: cannot open shared object file: No such file or directory",
+    "answers": []
+  },
+  {
+    "question": "ImportError: libgtk-3.so.0: cannot open shared object file: No such file or directory",
+    "answers": []
+  },
+  {
+    "question": "ImportError: libopencv_core.so.4.x: cannot open shared object file",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) error: (-215:Assertion failed) inv_scale_x > 0 in function 'resize'",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) error: (-215:Assertion failed) !_img.empty() in function 'imwrite'",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) DNN: build does not support CUDA backend",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) DNN: Cannot init CUDA backend",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: module 'cv2' has no attribute 'xfeatures2d'",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: module 'cv2' has no attribute 'SIFT'",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: module 'cv2' has no attribute 'face'",
+    "answers": []
+  },
+  {
+    "question": "cv2.cuda.getDevice() -> error: OpenCV was built without CUDA support",
+    "answers": []
+  },
+  {
+    "question": "cv2.VideoCapture: can't open camera by index",
+    "answers": []
+  },
+  {
+    "question": "VIDEOIO/FFMPEG: Could not open file: 'video.mp4'",
+    "answers": []
+  },
+  {
+    "question": "GStreamer: Error opening bin: no element \"nvdec\"",
+    "answers": []
+  },
+  {
+    "question": "cv2.VideoWriter: codec not found for fourcc 'H264'",
+    "answers": []
+  },
+  {
+    "question": "cv2.VideoWriter: can't open file for writing",
+    "answers": []
+  },
+  {
+    "question": "FATAL: module 'cv2' has incompatible ABI with numpy",
+    "answers": []
+  },
+  {
+    "question": "ImportError: numpy.core.multiarray failed to import",
+    "answers": []
+  },
+  {
+    "question": "cv2.imdecode 返回 None",
+    "answers": []
+  },
+  {
+    "question": "WARNING:Can't open/read file: check file path/integrity",
+    "answers": []
+  },
+  {
+    "question": "cv2.findContours ValueError: not enough values to unpack",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support",
+    "answers": []
+  },
+  {
+    "question": "cv2.setNumThreads 导致崩溃",
+    "answers": []
+  },
+  {
+    "question": "ImportError: OpenCV loader: missing configuration file: config.py",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: OpenCV(4.x) error: Unknown C++ exception from OpenCV code",
+    "answers": []
+  },
+  {
+    "question": "cv2.VideoCapture 使用 CAP_DSHOW 失败",
+    "answers": []
+  },
+  {
+    "question": "cv2.imwrite 中文路径保存失败",
+    "answers": []
+  },
+  {
+    "question": "cv2.imread 对中文路径返回 None",
+    "answers": []
+  },
+  {
+    "question": "cv2.dnn.readNetFromONNX 失败: Unsupported layer type",
+    "answers": []
+  },
+  {
+    "question": "cv2.dnn.readNet 失败: Failed to parse Darknet model",
+    "answers": []
+  },
+  {
+    "question": "cv2.error: QRCodeDetector 检测失败返回空",
+    "answers": []
+  },
+  {
+    "question": "cv2.CAP_FFMPEG: assertion failed: could not find codec parameters",
+    "answers": []
+  },
+  {
+    "question": "cv2.CascadeClassifier empty",
+    "answers": []
+  },
+  {
+    "question": "cv2.findHomography 返回 None",
+    "answers": []
+  },
+  {
+    "question": "cv2.StereoBM compute 报错：image size not match",
+    "answers": []
+  },
+  {
+    "question": "cv2.calibrateCamera 报错：objectPoints/imagePoints size mismatch",
+    "answers": []
+  },
+  {
+    "question": "ERROR: Failed building wheel for opencv-python",
+    "answers": []
+  },
+  {
+    "question": "ERROR: Could not build wheels for Pillow",
+    "answers": []
+  },
+  {
+    "question": "fatal error: zlib.h: No such file or directory",
+    "answers": []
+  },
+  {
+    "question": "fatal error: jpeglib.h: No such file or directory",
+    "answers": []
+  },
+  {
+    "question": "OSError: cannot identify image file",
+    "answers": []
+  },
+  {
+    "question": "DecompressionBombError: Image size exceeds limit",
+    "answers": []
+  },
+  {
+    "question": "ERROR: Failed building wheel for lxml",
+    "answers": []
+  },
+  {
+    "question": "error: xslt-config not found; please install libxslt",
+    "answers": []
+  },
+  {
+    "question": "mysqlclient: mysql_config not found",
+    "answers": []
+  },
+  {
+    "question": "psycopg2: pg_config executable not found",
+    "answers": []
+  },
+  {
+    "question": "scipy: error: no lapack/blas resources found",
+    "answers": []
+  },
+  {
+    "question": "scipy build error: gfortran not found",
+    "answers": []
+  },
+  {
+    "question": "scikit-learn build failed: Microsoft Visual C++ 14.0 or greater is required",
+    "answers": []
+  },
+  {
+    "question": "ImportError: DLL load failed: The specified module could not be found.",
+    "answers": []
+  },
+  {
+    "question": "numba ImportError: llvmlite version mismatch",
+    "answers": []
+  },
+  {
+    "question": "xgboost ImportError: DLL load failed: libgomp-7.dll was not found",
+    "answers": []
+  },
+  {
+    "question": "OSError: libstdc++.so.6: version `GLIBCXX_3.4.26' not found",
+    "answers": []
+  },
+  {
+    "question": "lightgbm: cmake not found",
+    "answers": []
+  },
+  {
+    "question": "h5py: Unable to load dependency HDF5 headers or library",
+    "answers": []
+  },
+  {
+    "question": "matplotlib: ModuleNotFoundError: No module named '_tkinter'",
+    "answers": []
+  },
+  {
+    "question": "matplotlib: ImportError: cannot import name 'six'",
+    "answers": []
+  },
+  {
+    "question": "matplotlib: ERROR: Failed building wheel for kiwisolver",
+    "answers": []
+  },
+  {
+    "question": "conda 安装与 pip 安装混用导致依赖地狱",
+    "answers": []
+  },
+  {
+    "question": "ERROR: ResolutionImpossible: requirements conflict",
+    "answers": []
+  },
+  {
+    "question": "pip: ERROR: externally-managed-environment",
+    "answers": []
+  },
+  {
+    "question": "pip: SSL: CERTIFICATE_VERIFY_FAILED",
+    "answers": []
+  },
+  {
+    "question": "pip: ReadTimeoutError: HTTPSConnectionPool",
+    "answers": []
+  },
+  {
+    "question": "cryptography build error: rust compiler is required",
+    "answers": []
+  },
+  {
+    "question": "pydantic-core build failed: Rust toolchain not installed",
+    "answers": []
+  },
+  {
+    "question": "tensorflow: No matching distribution found for your platform/Python version",
+    "answers": []
+  },
+  {
+    "question": "tensorflow: Could not load dynamic library 'cudart64_110.dll'",
+    "answers": []
+  },
+  {
+    "question": "tensorflow: cuDNN failed to initialize",
+    "answers": []
+  },
+  {
+    "question": "torchvision/torchaudio 与 torch 版本不匹配导致 ImportError",
+    "answers": []
+  },
+  {
+    "question": "pandas ImportError: numpy.core._multiarray_umath failed to import",
+    "answers": []
+  },
+  {
+    "question": "pandas: ValueError: numpy.dtype size changed, may indicate binary incompatibility",
+    "answers": []
+  },
+  {
+    "question": "requests SSLError: HTTPSConnectionPool CERTIFICATE_VERIFY_FAILED",
+    "answers": []
+  },
+  {
+    "question": "pip HTTP 407 Proxy Authentication Required",
+    "answers": []
+  },
+  {
+    "question": "PyAudio: fatal error: portaudio.h: No such file or directory",
+    "answers": []
+  },
+  {
+    "question": "skimage ImportError: cannot import name 'imread'",
+    "answers": []
+  },
+  {
+    "question": "OpenAI gym ImportError: No module named 'Box2D'",
+    "answers": []
+  },
+  {
+    "question": "Jupyter: Kernel dies on import torch",
+    "answers": []
+  },
+  {
+    "question": "fastapi ImportError: cannot import name 'starlette.datastructures'",
+    "answers": []
+  },
+  {
+    "question": "uvloop 不支持 Windows",
+    "answers": []
+  },
+  {
+    "question": "selenium: WebDriverException: 'chromedriver' executable needs to be in PATH",
+    "answers": []
+  },
+  {
+    "question": "spacy: OSError: [E050] Can't find model 'en_core_web_sm'",
+    "answers": []
+  },
+  {
+    "question": "nltk: LookupError: Resource 'punkt' not found",
+    "answers": []
+  },
+  {
+    "question": "onnxruntime ImportError: cannot open shared object file: libonnxruntime_providers_shared.so",
+    "answers": []
+  },
+  {
+    "question": "pywin32: ImportError: DLL load failed",
+    "answers": []
+  },
+  {
+    "question": "psutil 安装失败：error: Microsoft Visual C++ 14.0 is required",
+    "answers": []
+  },
+  {
+    "question": "orjson build failed: rust not installed",
+    "answers": []
+  },
+  {
+    "question": "Pillow-SIMD 与 Pillow 冲突",
+    "answers": []
+  },
+  {
+    "question": "opencv-python 与 opencv-python-headless 冲突",
+    "answers": []
+  },
+  {
+    "question": "mkl-service ImportError: DLL load failed",
+    "answers": []
+  },
+  {
+    "question": "ImportError: libomp.dylib not found",
+    "answers": []
+  },
+  {
+    "question": "JAX: No GPU/TPU found, falling back to CPU",
+    "answers": []
+  },
+  {
+    "question": "onnx: protobuf version mismatch",
+    "answers": []
+  },
+  {
+    "question": "tflite_runtime: wheel not available for platform",
+    "answers": []
+  },
+  {
+    "question": "pytorch-lightning ImportError: cannot import name 'Trainer'",
+    "answers": []
+  },
+  {
+    "question": "transformers: ImportError: cannot import name 'AutoModelForSeq2SeqLM'",
+    "answers": []
+  },
+  {
+    "question": "OpenCV Python bindings mismatch: cv2.cv2 and cv2 versions differ",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: invalid syntax",
+    "answers": []
+  },
+  {
+    "question": "IndentationError: expected an indented block",
+    "answers": []
+  },
+  {
+    "question": "NameError: name 'x' is not defined",
+    "answers": []
+  },
+  {
+    "question": "TypeError: unsupported operand type(s) for +: 'int' and 'str'",
+    "answers": []
+  },
+  {
+    "question": "ValueError: invalid literal for int() with base 10: 'abc'",
+    "answers": []
+  },
+  {
+    "question": "IndexError: list index out of range",
+    "answers": []
+  },
+  {
+    "question": "KeyError: 'nonexistent_key'",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: 'NoneType' object has no attribute 'method'",
+    "answers": []
+  },
+  {
+    "question": "ImportError: No module named 'nonexistent_module'",
+    "answers": []
+  },
+  {
+    "question": "ModuleNotFoundError: No module named 'requests'",
+    "answers": []
+  },
+  {
+    "question": "FileNotFoundError: [Errno 2] No such file or directory: 'file.txt'",
+    "answers": []
+  },
+  {
+    "question": "PermissionError: [Errno 13] Permission denied: '/root/file.txt'",
+    "answers": []
+  },
+  {
+    "question": "ZeroDivisionError: division by zero",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: maximum recursion depth exceeded",
+    "answers": []
+  },
+  {
+    "question": "RecursionError: maximum recursion depth exceeded",
+    "answers": []
+  },
+  {
+    "question": "StopIteration",
+    "answers": []
+  },
+  {
+    "question": "GeneratorExit",
+    "answers": []
+  },
+  {
+    "question": "KeyboardInterrupt",
+    "answers": []
+  },
+  {
+    "question": "SystemExit",
+    "answers": []
+  },
+  {
+    "question": "MemoryError",
+    "answers": []
+  },
+  {
+    "question": "OverflowError: math range error",
+    "answers": []
+  },
+  {
+    "question": "FloatingPointError",
+    "answers": []
+  },
+  {
+    "question": "OSError: [Errno 28] No space left on device",
+    "answers": []
+  },
+  {
+    "question": "BlockingIOError",
+    "answers": []
+  },
+  {
+    "question": "ChildProcessError",
+    "answers": []
+  },
+  {
+    "question": "ConnectionError",
+    "answers": []
+  },
+  {
+    "question": "BrokenPipeError",
+    "answers": []
+  },
+  {
+    "question": "ConnectionAbortedError",
+    "answers": []
+  },
+  {
+    "question": "ConnectionRefusedError",
+    "answers": []
+  },
+  {
+    "question": "ConnectionResetError",
+    "answers": []
+  },
+  {
+    "question": "FileExistsError: [Errno 17] File exists",
+    "answers": []
+  },
+  {
+    "question": "FileNotFoundError",
+    "answers": []
+  },
+  {
+    "question": "InterruptedError",
+    "answers": []
+  },
+  {
+    "question": "IsADirectoryError: [Errno 21] Is a directory",
+    "answers": []
+  },
+  {
+    "question": "NotADirectoryError: [Errno 20] Not a directory",
+    "answers": []
+  },
+  {
+    "question": "PermissionError",
+    "answers": []
+  },
+  {
+    "question": "ProcessLookupError: [Errno 3] No such process",
+    "answers": []
+  },
+  {
+    "question": "TimeoutError",
+    "answers": []
+  },
+  {
+    "question": "UnicodeError",
+    "answers": []
+  },
+  {
+    "question": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte",
+    "answers": []
+  },
+  {
+    "question": "UnicodeEncodeError: 'ascii' codec can't encode character '\\u4e2d' in position 0: ordinal not in range(128)",
+    "answers": []
+  },
+  {
+    "question": "UnicodeTranslateError",
+    "answers": []
+  },
+  {
+    "question": "Warning",
+    "answers": []
+  },
+  {
+    "question": "DeprecationWarning",
+    "answers": []
+  },
+  {
+    "question": "PendingDeprecationWarning",
+    "answers": []
+  },
+  {
+    "question": "RuntimeWarning",
+    "answers": []
+  },
+  {
+    "question": "SyntaxWarning",
+    "answers": []
+  },
+  {
+    "question": "UserWarning",
+    "answers": []
+  },
+  {
+    "question": "FutureWarning",
+    "answers": []
+  },
+  {
+    "question": "ImportWarning",
+    "answers": []
+  },
+  {
+    "question": "UnicodeWarning",
+    "answers": []
+  },
+  {
+    "question": "BytesWarning",
+    "answers": []
+  },
+  {
+    "question": "ResourceWarning",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: Could not find a version that satisfies the requirement package_name",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: No matching distribution found for package_name",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: Command errored out with exit status 1",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: Failed building wheel for package_name",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: ERROR: Could not install packages due to an OSError",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: Permission denied",
+    "answers": []
+  },
+  {
+    "question": "pip install 报错: Consider using the `--user` option or check the permissions",
+    "answers": []
+  },
+  {
+    "question": "依赖冲突: ERROR: Cannot uninstall 'package'. It is a distutils installed project",
+    "answers": []
+  },
+  {
+    "question": "依赖冲突: ERROR: pip's dependency resolver does not currently take into account all the packages that are installed",
+    "answers": []
+  },
+  {
+    "question": "版本冲突: ImportError: cannot import name 'function_name' from 'module_name'",
+    "answers": []
+  },
+  {
+    "question": "版本冲突: AttributeError: module 'package' has no attribute 'function'",
+    "answers": []
+  },
+  {
+    "question": "ModuleNotFoundError: No module named 'Crypto'",
+    "answers": []
+  },
+  {
+    "question": "ImportError: DLL load failed while importing module_name",
+    "answers": []
+  },
+  {
+    "question": "OSError: [WinError 126] 找不到指定的模块",
+    "answers": []
+  },
+  {
+    "question": "The virtual environment was not created successfully because ensurepip is not available",
+    "answers": []
+  },
+  {
+    "question": "Command 'python -m venv env' returned non-zero exit status",
+    "answers": []
+  },
+  {
+    "question": "ImportError: attempted relative import with no known parent package",
+    "answers": []
+  },
+  {
+    "question": "SystemError: Parent module '' not loaded, cannot perform relative import",
+    "answers": []
+  },
+  {
+    "question": "SyntaxError: Non-UTF-8 code starting with '\\xff' in file",
+    "answers": []
+  },
+  {
+    "question": "UnicodeDecodeError: 'gbk' codec can't decode byte 0xae in position 199: illegal multibyte sequence",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: can't start new thread",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: threads can only be started once",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: asyncio.run() cannot be called from a running event loop",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Event loop is closed",
+    "answers": []
+  },
+  {
+    "question": "OperationalError: unable to open database file",
+    "answers": []
+  },
+  {
+    "question": "InterfaceError: Error binding parameter",
+    "answers": []
+  },
+  {
+    "question": "requests.exceptions.ConnectionError: Max retries exceeded with url",
+    "answers": []
+  },
+  {
+    "question": "requests.exceptions.Timeout: Connection timed out",
+    "answers": []
+  },
+  {
+    "question": "requests.exceptions.SSLError: HTTPSConnectionPool",
+    "answers": []
+  },
+  {
+    "question": "IOError: [Errno 28] No space left on device",
+    "answers": []
+  },
+  {
+    "question": "OSError: [Errno 22] Invalid argument",
+    "answers": []
+  },
+  {
+    "question": "pickle.UnpicklingError: invalid load key, '\\x00'",
+    "answers": []
+  },
+  {
+    "question": "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "answers": []
+  },
+  {
+    "question": "re.error: unbalanced parenthesis",
+    "answers": []
+  },
+  {
+    "question": "re.error: nothing to repeat",
+    "answers": []
+  },
+  {
+    "question": "TypeError: 'NoneType' object is not callable",
+    "answers": []
+  },
+  {
+    "question": "TypeError: wrapper() takes 0 positional arguments but 1 was given",
+    "answers": []
+  },
+  {
+    "question": "TypeError: Cannot create a consistent method resolution order (MRO)",
+    "answers": []
+  },
+  {
+    "question": "TypeError: multiple bases have instance lay-out conflict",
+    "answers": []
+  },
+  {
+    "question": "TypeError: metaclass conflict: the metaclass of a derived class must be a subclass of the metaclasses of all its bases",
+    "answers": []
+  },
+  {
+    "question": "TypeError: __init__() should return None, not 'str'",
+    "answers": []
+  },
+  {
+    "question": "StopAsyncIteration",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: generator raised StopIteration",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: __enter__",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: __exit__",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: can't set attribute",
+    "answers": []
+  },
+  {
+    "question": "AttributeError: property 'name' of 'object' object has no setter",
+    "answers": []
+  },
+  {
+    "question": "ImportError: __import__ not found",
+    "answers": []
+  },
+  {
+    "question": "ImportError: cannot import name from partially initialized module",
+    "answers": []
+  },
+  {
+    "question": "ImportError: dynamic module does not define module export function",
+    "answers": []
+  },
+  {
+    "question": "ImportError: numpy.core.multiarray failed to import",
+    "answers": []
+  },
+  {
+    "question": "TypeError: 'type' object is not subscriptable",
+    "answers": []
+  },
+  {
+    "question": "NameError: name 'List' is not defined",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: no running event loop",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: This event loop is already running",
+    "answers": []
+  },
+  {
+    "question": "Kernel died with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "No module named 'ipykernel'",
+    "answers": []
+  },
+  {
+    "question": "django.core.exceptions.ImproperlyConfigured",
+    "answers": []
+  },
+  {
+    "question": "django.db.utils.OperationalError",
+    "answers": []
+  },
+  {
+    "question": "werkzeug.exceptions.BadRequest",
+    "answers": []
+  },
+  {
+    "question": "werkzeug.exceptions.NotFound",
+    "answers": []
+  },
+  {
+    "question": "pandas.errors.EmptyDataError: No columns to parse from file",
+    "answers": []
+  },
+  {
+    "question": "pandas.errors.ParserError: Error tokenizing data",
+    "answers": []
+  },
+  {
+    "question": "numpy.AxisError: axis 3 is out of bounds for array of dimension 2",
+    "answers": []
+  },
+  {
+    "question": "numpy.linalg.LinAlgError: Singular matrix",
+    "answers": []
+  },
+  {
+    "question": "ValueError: Image size of 1000000x1000000 pixels is too large",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Python is not installed as a framework",
+    "answers": []
+  },
+  {
+    "question": "tensorflow.python.framework.errors_impl.NotFoundError",
+    "answers": []
+  },
+  {
+    "question": "tensorflow.python.framework.errors_impl.InvalidArgumentError",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device",
+    "answers": []
+  }
+]

@@ -1,0 +1,1698 @@
+[
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 512 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 128 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 64 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 1024 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: CUDA out of memory. Tried to allocate 96 MiB",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Unexpected key(s) in state_dict: ['model.fc.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:1!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:2!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:1 and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:1!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cuda:0!",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 16 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 16 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 48 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 48 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 64 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 16 but got size 24 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 32 but got size 8 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 64 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 64 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 8 for tensor number 3",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 32 but got size 48 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 32 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 16 but got size 8 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 0. Expected size 32 but got size 24 for tensor number 2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 64 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 3. Expected size 16 but got size 24 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Sizes of tensors must match except in dimension 2. Expected size 16 but got size 8 for tensor number 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,64,224,224] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[2,16,112,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,64,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[2,64,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,32,3,3], expected input[2,32,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,32,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,32,224,224] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[1,64,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,64,3,3], expected input[1,64,112,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[2,16,224,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[1,64,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[2,16,224,112] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[2,16,224,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[2,32,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,64,224,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,32,3,3], expected input[1,16,112,224] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,16,112,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,32,3,3], expected input[2,16,224,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,32,3,3], expected input[2,32,224,112] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[2,16,224,224] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,64,112,112] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,64,3,3], expected input[2,64,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[1,16,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[1,16,112,112] to have 32 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[1,16,112,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,64,3,3], expected input[1,16,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [128,64,3,3], expected input[1,32,112,224] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [128,32,3,3], expected input[1,16,112,224] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[1,64,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,112,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,64,3,3], expected input[1,64,224,112] to have 64 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [128,64,3,3], expected input[2,64,224,112] to have 64 channels, but got 96 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=2, weight of size [64,32,3,3], expected input[1,16,112,112] to have 64 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,224,224] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=4, weight of size [64,32,3,3], expected input[2,16,112,112] to have 32 channels, but got 16 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Given groups=1, weight of size [64,32,3,3], expected input[2,64,112,224] to have 32 channels, but got 48 channels instead",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Missing key(s) in state_dict: ['classifier.bias'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Unexpected key(s) in state_dict: ['module.layer4.0.downsample.0.weight'].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [512, 2048].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [768, 30522] from checkpoint, the shape in current model is [64, 3, 3, 3].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight: copying a param with shape [64, 3, 7, 7] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight: copying a param with shape [1000, 2048] from checkpoint, the shape in current model is [1024, 30522].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Int but found Long",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for ResNet: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for BERT: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for UNet: Missing key(s) in state_dict: ['layer1.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Half",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for LSTMNet: Missing key(s) in state_dict: ['encoder.block.0.attn.q_proj.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Error(s) in loading state_dict for Transformer: Missing key(s) in state_dict: ['encoder.block.0.attn.q_proj.weight'].",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.BFloat16Tensor) and weight type (torch.HalfTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.HalfTensor) and weight type (torch.HalfTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Input type (torch.HalfTensor) and weight type (torch.FloatTensor) should be the same",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Long",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Float but found Half",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Half but found Long",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error in: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: system call (socket) failed",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid device pointer",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: internal error",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: invalid usage",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 5 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 137",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 3 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 3 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 7 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 4 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 5 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 2 failed with exit code 1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 1 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 0 failed with exit code 10",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 0 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: rank 6 failed with exit code 11",
+    "answers": []
+  },
+  {
+    "question": "CUDNN_STATUS_EXECUTION_FAILED",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 6: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 37: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 8: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 40: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 46: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 12: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 4: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 41: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 11: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 5: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 20: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 10: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 39: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 18: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 18: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 45: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 21: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 49: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 7: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 7: skipping step, loss scaler 0.5",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 29: skipping step, loss scaler 0.125",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 13: skipping step, loss scaler 0.25",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 20: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 17: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 41: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 8: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 50: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 29: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "Gradient overflow in step 31: skipping step, loss scaler dynamic",
+    "answers": []
+  },
+  {
+    "question": "pip: SSL: CERTIFICATE_VERIFY_FAILED",
+    "answers": []
+  },
+  {
+    "question": "pip: ERROR: externally-managed-environment",
+    "answers": []
+  },
+  {
+    "question": "pandas ImportError: numpy.core._multiarray_umath failed to import",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=10 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=13 not supported for operator cumsum",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=12 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator nms",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=11 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=10 not supported for operator roi_align",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator index_put",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator index_put",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=16 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=9 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "ONNX export failed: opset_version=12 not supported for operator grid_sampler",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: maximum recursion depth exceeded",
+    "answers": []
+  },
+  {
+    "question": "ERROR: Failed building wheel for lxml",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in softmax",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in grid_sample",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in BERT: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ViT: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in UNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in sigmoid",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: system call (socket) failed in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for fc.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in LSTMNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ResNet: checkpoint has [768,30522], current model has [1024,30522]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in batch_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: system call (socket) failed in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: system call (socket) failed in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in roi_align",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in layer_norm",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in einsum",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 4D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 3D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in avg_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 1D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: unhandled system error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in matmul",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 4D input in gelu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv3d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in broadcast",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: internal error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cuda:2 and cuda:1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cpu and cuda:2",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected all tensors to be on the same device, but found cpu and cuda:1",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid usage in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 4D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in embedding",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in all_reduce",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in ViT: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for classifier.weight in UNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 5D input in attention",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: internal error in barrier",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during conv3d",
+    "answers": []
+  },
+  {
+    "question": "cuDNN error: CUDNN_STATUS_INTERNAL_ERROR during conv1d",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in LSTMNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 2: invalid usage in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid usage in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: expected scalar type Double but found Int",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 3D input for 3D weight but got 5D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in linear",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in UNet: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for embeddings.weight in YOLO: checkpoint has [64,3,7,7], current model has [64,3,3,3]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for pos_embed in YOLO: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 1D input in linear",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 2D input in relu",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in barrier",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 2D input for 2D weight but got 3D input in conv1d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 7: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: unhandled system error in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 1D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 5D input for 5D weight but got 5D input in conv2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: invalid device pointer in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 8: invalid device pointer in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: internal error in reduce_scatter",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in barrier",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in ResNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "size mismatch for conv1.weight in LSTMNet: checkpoint has [1000,2048], current model has [512,2048]",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 4D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 1D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 5D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: Expected 4D input for 4D weight but got 2D input in max_pool2d",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 3: system call (socket) failed in all_gather",
+    "answers": []
+  },
+  {
+    "question": "RuntimeError: NCCL error 13: system call (socket) failed in all_gather",
+    "answers": []
+  }
+]
